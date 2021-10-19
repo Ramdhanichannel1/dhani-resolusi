@@ -3,7 +3,10 @@ RENCANA KONTEN DHANI
 - Javascript
   * ES6
   * Framework javascript
+   ^ angular
+   ^ React
 - Struktur data dasar
+ * Laravel
 - PHP Frameworks
 - Interview
 - Vlog
