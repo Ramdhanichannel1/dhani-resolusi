@@ -4,6 +4,7 @@ RENCANA KONTEN DHANI
   * ES6
   * Framework javascript
    ^ Veu
+   ^ React
 - Struktur data dasar
 - PHP Frameworks
  * Laravel
