@@ -6,6 +6,7 @@ RENCANA KONTEN DHANI
    ^ Veu
    ^ React
 - Struktur data dasar
+ * Laravel
 - PHP Frameworks
  * Laravel
 - Interview
